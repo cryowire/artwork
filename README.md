@@ -1,6 +1,6 @@
-<a href="https://github.com/cryowire">
-  <img src="https://raw.githubusercontent.com/cryowire/artwork/main/logo-type/logotype.png" alt="cryowire" width="400" />
-</a>
+<p align="center"><a href="https://github.com/cryowire">
+  <img src="https://raw.githubusercontent.com/cryowire/artwork/main/logo-type/logotype.png" alt="cryowire" width="600" />
+</a></p>
 
 # cryowire/artwork
 
