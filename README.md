@@ -1,6 +1,6 @@
-# cryo-wiring Artwork
+# cryowire Artwork
 
-Official logos and brand assets for [cryo-wiring](https://github.com/cryo-wiring).
+Official logos and brand assets for [cryowire](https://github.com/cryowire).
 
 ## Logo
 
@@ -10,7 +10,7 @@ Icon mark only.
 
 ## Logo Type
 
-Logo with "cryo-wiring" text.
+Logo with "cryowire" text.
 
 ![logo-type](logo-type/logo-type.png)
 
