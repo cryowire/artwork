@@ -5,7 +5,7 @@
 <h1 align="center">cryowire/artwork</h1>
 <p align="center">Official logos and brand assets for <a href="https://github.com/cryowire">cryowire</a>.</p>
 <p align="center">
-  <a href="https://cryowire.github.io/"><img src="https://img.shields.io/badge/Website-cryowire.github.io-38bdf8?style=flat-square" alt="Website" /></a>
+  <a href="https://cryowire.github.io/"><img src="https://img.shields.io/badge/Website-cryowire.github.io-38bdf8?style=for-the-badge" alt="Website" /></a>
 </p>
 
 ## Logo
